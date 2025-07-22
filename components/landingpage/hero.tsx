@@ -246,8 +246,8 @@ const DeveloperHero: React.FC = () => {
             variants={itemVariants}
             className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed"
           >
-            Experienced in scalable application architecture and cloud-native deployments for high-performance platforms. 
-            Specialized in React, Node.js, Docker, Kubernetes, and AWS with proven expertise in microservices and streamlined workflows.
+            Oh, look at me! I build fancy cloud stuff with all the buzzwords: React, Node.js, Docker, Kubernetes, AWS. Basically, I make apps go fast, because apparently, that's still a challenge.
+
           </motion.p>
 
           {/* Skills */}
