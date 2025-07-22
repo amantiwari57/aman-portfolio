@@ -216,7 +216,7 @@ const DeveloperHero: React.FC = () => {
       </FloatingElement>
 
       <motion.div
-        className="relative container mx-auto px-4 z-10"
+        className="relative container mx-auto px-4 z-[60]"
         variants={containerVariants}
         initial="hidden"
         animate={controls}

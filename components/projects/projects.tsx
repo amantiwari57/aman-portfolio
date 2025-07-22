@@ -24,7 +24,7 @@ const projects = () => {
   ]
 
   return (
-    <div id="projects" className='flex flex-col items-center justify-center py-20'>
+    <div id="projects" className='flex flex-col items-center justify-center py-20 px-4'>
       <h1 className='text-5xl font-bold mb-6'>My Projects</h1>
       <p className='text-lg text-gray-600 mb-10'>Here are some of the key projects I've worked on:</p>      
       <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 max-w-7xl mx-auto w-full gap-6'>
