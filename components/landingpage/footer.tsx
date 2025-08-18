@@ -10,12 +10,12 @@ const FooterSection=()=> {
         socialLinks={[
           {
             icon: <Twitter className="h-5 w-5" />,
-            href: "https://twitter.com",
+            href: "https://x.com/amantiwari57",
             label: "Twitter",
           },
           {
             icon: <Github className="h-5 w-5" />,
-            href: "https://github.com",
+            href: "https://github.com/amantiwari57",
             label: "GitHub",
           },
         ]}
